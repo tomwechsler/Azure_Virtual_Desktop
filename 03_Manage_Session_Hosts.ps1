@@ -22,15 +22,15 @@ Get-AzSubscription
 Get-AzSubscription -SubscriptionName "Nutzungsbasierte Bezahlung" | Select-AzSubscription
 
 #Get Session Hosts drain mode status
-Get-AzWvdSessionHost -ResourceGroupName wvd-2020-rg01 -HostPoolName elme-hostpool | Select-Object Name,AllowNewSession
+Get-AzWvdSessionHost -ResourceGroupName elme-rg -HostPoolName elme-hostpool | Select-Object Name,AllowNewSession
 
 #Enable drain mode on the Session Host
-Update-AzWvdSessionHost -ResourceGroupName wvd-2020-rg01 -HostPoolName elme-hostpool -SessionHostName elme-sh-0.prime.pri -AllowNewSession:$false
+Update-AzWvdSessionHost -ResourceGroupName elme-rg -HostPoolName elme-hostpool -SessionHostName elme-sh-0.prime.pri -AllowNewSession:$false
 
 ### Remove a Session Host ###
 
 #Set some variables first
-$resourceGroup = "wvd-2020-rg01"
+$resourceGroup = "elme-rg"
 $hostPool = "elme-hostpool"
 $sessionHost = "elme-sh-0.prime.pri"
 
@@ -49,7 +49,7 @@ foreach ($session in $sessions) {
         SessionHostName = $sessionHost
         UserSessionId = ($session.id -split '/')[-1]
         MessageTitle = "Time to Log Off"
-        MessageBody = "The system will shut down in 1 minute.  Save and exit."
+        MessageBody = "The system will shut down in 10 minute. Please Save and exit."
     }
     Send-AzWvdUserSessionMessage @userMessage
 }
