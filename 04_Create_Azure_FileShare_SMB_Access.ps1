@@ -39,9 +39,6 @@ Set-Location C:\AzFilesHybrid
 #Import AzFilesHybrid module
 Import-Module -Name AzFilesHybrid
 
-#Login with an Azure AD credential that has either storage account owner or contributor Azure role assignment
-Connect-AzAccount
-
 #Define parameters
 $SubscriptionId = "<your-subscription-id-here>"
 $ResourceGroupName = "<resource-group-name-here>"
