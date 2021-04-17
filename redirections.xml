@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FrxProfileFolderRedirection ExcludeCommonFolders="0">
+
+<Excludes>
+
+<Exclude Copy="0">AppData\Local\SquirrelTemp</Exclude>
+
+<Exclude Copy="0">AppData\Local\Microsoft\Teams\Current\Locales</Exclude>
+
+<Exclude Copy="0">AppData\Local\Microsoft\Teams\Packages\SquirrelTemp</Exclude>
+
+<Exclude Copy="0">AppData\Local\Microsoft\Teams\current\resources\locales</Exclude>
+
+<Exclude Copy="0">AppData\Local\Microsoft\Teams\Current\Locales</Exclude>
+
+<Exclude Copy="0">AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage</Exclude>
+
+<Exclude Copy="0">AppData\Roaming\Microsoft\Teams\Application Cache</Exclude>
+
+<Exclude Copy="0">AppData\Roaming\Microsoft\Teams\Cache</Exclude>
+
+<Exclude Copy="0">AppData\Roaming\Microsoft Teams\Logs</Exclude>
+
+<Exclude Copy="0">AppData\Roaming\Microsoft\Teams\media-stack</Exclude>
+
+</Excludes>
+
+</FrxProfileFolderRedirection>
