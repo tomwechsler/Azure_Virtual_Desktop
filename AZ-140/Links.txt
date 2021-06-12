@@ -1,0 +1,15 @@
+https://docs.microsoft.com/en-us/azure/virtual-desktop/rbac
+
+https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-quickstart-set-up-account-create-volumes?tabs=azure-portal
+
+https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-create-volumes-smb
+
+https://docs.microsoft.com/en-us/azure/azure-netapp-files/create-active-directory-connections
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa
+
+https://docs.microsoft.com/en-us/azure/backup/backup-afs
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/host-pool-load-balancing
+
+https://docs.microsoft.com/en-us/azure/security/fundamentals/antimalware
