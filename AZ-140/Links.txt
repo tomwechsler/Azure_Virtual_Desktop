@@ -13,3 +13,13 @@ https://docs.microsoft.com/en-us/azure/backup/backup-afs
 https://docs.microsoft.com/en-us/azure/virtual-desktop/host-pool-load-balancing
 
 https://docs.microsoft.com/en-us/azure/security/fundamentals/antimalware
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/connect-web
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/fslogix-office-app-rule-editor
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/customize-feed-for-virtual-desktop-users
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client
