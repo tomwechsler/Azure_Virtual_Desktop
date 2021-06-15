@@ -23,3 +23,21 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/fslogix-office-app-rule-e
 https://docs.microsoft.com/en-us/azure/virtual-desktop/customize-feed-for-virtual-desktop-users
 
 https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-client
+
+https://docs.microsoft.com/en-us/azure/active-directory-domain-services/tutorial-create-instance
+
+https://docs.microsoft.com/en-us/fslogix/overview
+
+https://docs.microsoft.com/en-us/fslogix/configure-profile-container-tutorial#set-up-include-and-exclude-user-groups
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-vm-configuration
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image#determine-when-to-use-sysprep
+
+https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/windowsdesktop
+
+https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-rds-to-wvd
