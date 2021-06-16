@@ -41,3 +41,5 @@ https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/c
 https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction
 
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-rds-to-wvd
+
+https://azure.microsoft.com/de-de/pricing/details/virtual-desktop/
