@@ -43,3 +43,11 @@ https://docs.microsoft.com/en-us/azure/backup/backup-azure-vms-introduction
 https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-rds-to-wvd
 
 https://azure.microsoft.com/de-de/pricing/details/virtual-desktop/
+
+https://docs.microsoft.com/en-us/azure/logic-apps/create-automation-tasks-azure-resources
+
+https://docs.microsoft.com/en-us/azure/automation/automation-solution-vm-management
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image
+
+https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-manage-snapshots
