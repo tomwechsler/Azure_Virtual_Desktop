@@ -51,3 +51,11 @@ https://docs.microsoft.com/en-us/azure/automation/automation-solution-vm-managem
 https://docs.microsoft.com/en-us/azure/virtual-machines/windows/prepare-for-upload-vhd-image
 
 https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-manage-snapshots
+
+https://www.christiaanbrinkhoff.com/2020/03/22/windows-virtual-desktop-technical-walkthrough-including-other-unknown-secrets-you-did-not-know-about-the-new-microsoft-managed-azure-service/
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-identity-and-access-management
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/language-packs
+
+https://azure.microsoft.com/de-de/services/virtual-desktop/assessment/
