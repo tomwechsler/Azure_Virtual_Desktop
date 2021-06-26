@@ -59,3 +59,7 @@ https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/es
 https://docs.microsoft.com/en-us/azure/virtual-desktop/language-packs
 
 https://azure.microsoft.com/de-de/services/virtual-desktop/assessment/
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/eslz-business-continuity-and-disaster-recovery
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/disaster-recovery
