@@ -1,3 +1,5 @@
+https://github.com/MicrosoftLearning/AZ-140-Configuring-and-Operating-Microsoft-Azure-Virtual-Desktop
+
 https://docs.microsoft.com/en-us/azure/virtual-desktop/rbac
 
 https://docs.microsoft.com/en-us/azure/azure-netapp-files/azure-netapp-files-quickstart-set-up-account-create-volumes?tabs=azure-portal
