@@ -1,6 +1,4 @@
 #Create the self signed cert
-#List of country codes can be found at:
-#https://www.digicert.com/kb/ssl-certificate-country-codes.htm
 $friendlyName = "MSIXAPPDIGCERT"
 $commonName = "DigCert"
 $orgName = "elme"
