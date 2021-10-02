@@ -1,3 +1,6 @@
+Set-Location C:\
+Clear-Host
+
 #region Create virtual disk
 #Enable Hyper-V 
 #Requires a restart
@@ -6,7 +9,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Hyper-V -All
 #Create the Virtual Disk
 #Set the path and name of the disk
 #use a .vhdx disk type
-$vDisk = "<Path and name of virtual disk>"
+$vDisk = "C:\Temp\notepadPP.vhdx"
 New-VHD -SizeBytes 2096MB -Path $vDisk -Dynamic -Confirm:$false
 
 #Mount the virtual disk
@@ -25,12 +28,12 @@ Format-Volume -FileSystem NTFS -Confirm:$false -DriveLetter $partition.DriveLett
 #Record for later
 $parentFolder = "msix"
 $driveLetter = ($partition.DriveLetter).ToString() + ':\'
-$unpackDir = New-Item  -Path $driveLetter -Name $parentFolder -ItemType Directory
+$unpackDir = New-Item -Path $driveLetter -Name $parentFolder -ItemType Directory
 
 #Run mountvol and get the volume ID of the virtual disk
 mountvol
 #record for later
-$volumeGuid = "<Volume GUID>"
+$volumeGuid = "1220f3da-ac9a-4006-84f6-036bbfcb7ea2"
 
 #endregion
 
@@ -39,14 +42,14 @@ $volumeGuid = "<Volume GUID>"
 #https://aka.ms/msixmgr
 
 #Path to the source MSIX package
-$msixSource = "<Path to MSIX Package>"
-Set-Location <to the msixmgr.exe>
-msixmgr.exe -Unpack -packagePath $msixSource -destination $unpackDir -applyacls
+$msixSource = "C:\Users\wvdadmin.PRIME\Documents\NotepadPP\NotepadPP.msix"
+Set-Location C:\msixmgr\msixmgr\x64\
+./msixmgr.exe -Unpack -packagePath $msixSource -destination $unpackDir -applyacls
 
 #Get the full package name from the unpacked files
-$packageName = "<Full Package Name>" 
+$packageName = "NotepadPPPackage_1.0.0.0_x64__483eddh1k4v7e" 
 
-#Unmount VHC
+#Unmount VHD
 $vhdObject | Dismount-VHD
 
 #endregion
@@ -82,4 +85,3 @@ net use T: /delete
 
 
 #endregion
-
