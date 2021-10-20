@@ -87,6 +87,21 @@ else
   Write-Error -Message "Unable to reach the Azure storage account via port 445. Check to make sure your organization or ISP is not blocking port 445, or use Azure P2S VPN,   Azure S2S VPN, or Express Route to tunnel SMB traffic over a different port."
 }
 
+
+#From the Administrator: Windows PowerShell ISE console, run the following to view the current file system permissions:
+icacls Z:
+#Note: By default, both NT Authority\Authenticated Users and BUILTIN\Users have permissions that would allow users read other users' profile containers. You will remove them and add minimum required permissions instead.
+#From the Administrator: Windows PowerShell ISE script pane, run the following to adjust the file system permissions to comply with the principle of least privilege:
+
+$permissions = 'ADATUM\az140-wvd-admins'+':(F)'
+cmd /c icacls Z: /grant $permissions
+$permissions = 'ADATUM\az140-wvd-users'+':(M)'
+cmd /c icacls Z: /grant $permissions
+$permissions = 'Creator Owner'+':(OI)(CI)(IO)(M)'
+cmd /c icacls Z: /grant $permissions
+icacls Z: /remove 'Authenticated Users'
+icacls Z: /remove 'Builtin\Users'
+
 #Path to the file share
 #Replace drive letter, storage account name and share name with your settings
 #"\\<StorageAccountName>.file.core.windows.net\<ShareName>"
