@@ -1,2 +1,2 @@
 # Microsoft Azure Virtual Desktop
-Everything about Azure Virtual Desktop!
+Everything about Microsoft Azure Virtual Desktop!
