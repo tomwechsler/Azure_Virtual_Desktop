@@ -1,6 +1,9 @@
 Azure Virtual Desktop Architecture
 ----------------------------------
 
+Azure Virtual Desktop assessment  
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/wvd/migrate-assess  
+
 Azure Virtual Desktop for the enterprise  
 https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop
 
