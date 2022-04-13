@@ -52,6 +52,7 @@ https://docs.microsoft.com/de-de/azure/architecture/example-scenario/wvd/azure-v
 
 FSLogix
 -------
+Download FSLogix
 https://docs.microsoft.com/en-us/fslogix/install-ht
 
 https://techcommunity.microsoft.com/t5/azure-virtual-desktop/wvd-fslogix-reduce-profile-container-size-exclude-teams-cache/m-p/1503683
