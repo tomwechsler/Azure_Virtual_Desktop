@@ -50,6 +50,12 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile
 Azure AD-Einbindung für Azure Virtual Desktop  
 https://docs.microsoft.com/de-de/azure/architecture/example-scenario/wvd/azure-virtual-desktop-azure-active-directory-join
 
+FSLogix
+-------
+https://docs.microsoft.com/en-us/fslogix/install-ht
+
+https://techcommunity.microsoft.com/t5/azure-virtual-desktop/wvd-fslogix-reduce-profile-container-size-exclude-teams-cache/m-p/1503683
+
 Custom Image
 ------------
 
