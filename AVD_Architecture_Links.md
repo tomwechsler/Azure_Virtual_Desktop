@@ -71,7 +71,8 @@ Installing Office
 https://docs.microsoft.com/en-us/azure/virtual-desktop/install-office-on-wvd-master-image#install-office-in-shared-computer-activation-mode
 
 Installing Teams  
-https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd
+https://docs.microsoft.com/en-us/azure/virtual-desktop/teams-on-avd  
+https://techcommunity.microsoft.com/t5/azure-virtual-desktop/wvd-fslogix-reduce-profile-container-size-exclude-teams-cache/td-p/1503683
 
 Installing OneDrive  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/install-office-on-wvd-master-image#install-onedrive-in-per-machine-mode
