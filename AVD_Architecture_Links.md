@@ -79,6 +79,9 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/install-office-on-wvd-mas
 Installing a Language Pack  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/language-packs
 
+Store and share images in an Azure Compute Gallery  
+https://docs.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries
+
 Connect to Azure Virtual Desktop
 --------------------------------
 
