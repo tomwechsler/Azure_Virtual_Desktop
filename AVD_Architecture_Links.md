@@ -94,6 +94,9 @@ https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery
 Monitoring
 ----------
 
+Use Azure Monitor for Azure Virtual Desktop to monitor your deployment  
+https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor
+
 Log Analytics Workspace (KQL)  
 https://github.com/tomwechsler/Azure_Virtual_Desktop/blob/main/WVD_Log_Analytics_KQL.ps1
 
