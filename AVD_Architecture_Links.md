@@ -72,3 +72,18 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/install-office-on-wvd-mas
 
 Installing a Language Pack  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/language-packs
+
+Connect to Azure Virtual Desktop
+--------------------------------
+
+WebURL  
+https://rdweb.wvd.microsoft.com/arm/webclient  
+
+https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery  
+
+Monitoring
+----------
+
+Log Analytics Workspace (KQL)  
+https://github.com/tomwechsler/Azure_Virtual_Desktop/blob/main/WVD_Log_Analytics_KQL.ps1
+
