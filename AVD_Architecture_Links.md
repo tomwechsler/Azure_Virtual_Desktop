@@ -47,6 +47,12 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor
 Recommend an appropriate storage solution  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile
 
+Update the password of your storage account identity in AD DS  
+https://docs.microsoft.com/en-us/azure/storage/files/storage-files-identity-ad-ds-update-password
+
+Overview - on-premises Active Directory Domain Services authentication over SMB for Azure file shares  
+https://docs.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-active-directory-enable
+
 Azure AD-Einbindung für Azure Virtual Desktop  
 https://docs.microsoft.com/de-de/azure/architecture/example-scenario/wvd/azure-virtual-desktop-azure-active-directory-join
 
