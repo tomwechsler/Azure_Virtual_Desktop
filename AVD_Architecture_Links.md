@@ -100,3 +100,8 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor
 Log Analytics Workspace (KQL)  
 https://github.com/tomwechsler/Azure_Virtual_Desktop/blob/main/WVD_Log_Analytics_KQL.ps1
 
+Security
+--------
+
+Security best practices  
+https://docs.microsoft.com/en-us/azure/virtual-desktop/security-guide
