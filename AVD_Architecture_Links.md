@@ -105,3 +105,6 @@ Security
 
 Security best practices  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/security-guide
+
+Built-in Azure RBAC roles for Azure Virtual Desktop  
+https://docs.microsoft.com/en-us/azure/virtual-desktop/rbac
