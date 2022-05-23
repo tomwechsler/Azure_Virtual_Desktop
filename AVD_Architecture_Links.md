@@ -111,3 +111,6 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/rbac
 
 Azure security baseline for Azure Virtual Desktop  
 https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-desktop-security-baseline
+
+Azure Virtual Desktop Handbook: Security Fundamentals  
+https://azure.microsoft.com/en-us/resources/azure-virtual-desktop-handbook-security-fundamentals/
