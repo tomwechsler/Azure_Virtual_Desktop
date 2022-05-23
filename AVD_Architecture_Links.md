@@ -108,3 +108,6 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/security-guide
 
 Built-in Azure RBAC roles for Azure Virtual Desktop  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/rbac
+
+Azure security baseline for Azure Virtual Desktop  
+https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-desktop-security-baseline
