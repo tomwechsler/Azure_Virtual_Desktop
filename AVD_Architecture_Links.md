@@ -114,3 +114,6 @@ https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/virtual-desk
 
 Azure Virtual Desktop Handbook: Security Fundamentals  
 https://azure.microsoft.com/en-us/resources/azure-virtual-desktop-handbook-security-fundamentals/
+
+Protecting Azure Virtual Desktop environments with Azure Security Center  
+https://azure.microsoft.com/de-de/blog/protecting-windows-virtual-desktop-environments-with-azure-security-center/
