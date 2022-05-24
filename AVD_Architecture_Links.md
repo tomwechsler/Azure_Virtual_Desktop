@@ -87,7 +87,7 @@ Connect to Azure Virtual Desktop
 --------------------------------
 
 WebURL  
-https://rdweb.wvd.microsoft.com/arm/webclient  
+https://client.wvd.microsoft.com/arm/webclient/index.html  
 
 https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery  
 
