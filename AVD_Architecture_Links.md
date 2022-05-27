@@ -97,6 +97,9 @@ Monitoring
 Use Azure Monitor for Azure Virtual Desktop to monitor your deployment  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor
 
+Use Log Analytics for the diagnostics feature  
+https://docs.microsoft.com/en-us/azure/virtual-desktop/diagnostics-log-analytics
+
 Log Analytics Workspace (KQL)  
 https://github.com/tomwechsler/Azure_Virtual_Desktop/blob/main/WVD_Log_Analytics_KQL.ps1
 
