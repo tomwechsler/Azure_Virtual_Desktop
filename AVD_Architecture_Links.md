@@ -61,6 +61,9 @@ FSLogix
 Download FSLogix  
 https://docs.microsoft.com/en-us/fslogix/install-ht
 
+Create a profile container with Azure Files and Azure AD DS  
+https://docs.microsoft.com/en-us/azure/virtual-desktop/create-profile-container-adds
+
 Teams Cache Redirection  
 https://techcommunity.microsoft.com/t5/azure-virtual-desktop/wvd-fslogix-reduce-profile-container-size-exclude-teams-cache/m-p/1503683
 
