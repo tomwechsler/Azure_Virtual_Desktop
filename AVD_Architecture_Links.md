@@ -69,6 +69,12 @@ FSLogix
 Download FSLogix  
 https://docs.microsoft.com/en-us/fslogix/install-ht
 
+Configure Profile Container to redirect User Profiles  
+https://docs.microsoft.com/en-us/fslogix/configure-profile-container-tutorial
+
+Configure Office Container to redirect Microsoft Office user data  
+https://docs.microsoft.com/en-us/fslogix/configure-office-container-tutorial
+
 Create a profile container with Azure Files and Azure AD DS  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/create-profile-container-adds
 
