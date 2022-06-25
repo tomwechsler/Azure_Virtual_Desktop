@@ -28,6 +28,7 @@ https://docs.microsoft.com/en-us/learn/modules/azure-virtual-desktop-architectur
 Assess network capacity and speed requirements for Azure Virtual Desktop  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth
 
+Network guidelines  
 https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/network-guidance  
 
 https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/  
