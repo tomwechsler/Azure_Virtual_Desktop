@@ -31,10 +31,11 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth
 Network guidelines  
 https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/network-guidance  
 
+Azure Virtual Desktop Experience Estimator  
 https://azure.microsoft.com/en-us/services/virtual-desktop/assessment/  
 
 Recommend an operating system for an Azure Virtual Desktop implementation  
-https://docs.microsoft.com/en-us/learn/modules/design-azure-virtual-desktop-architecture/4-recommend-operate-system-azure-virtual-desktop-implementation?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.plan-azure-virtual-desktop-implementation
+https://docs.microsoft.com/en-us/learn/modules/design-azure-virtual-desktop-architecture/4-recommend-operate-system-azure-virtual-desktop-implementation
 
 Host pool load-balancing algorithms  
 https://docs.microsoft.com/en-us/azure/virtual-desktop/host-pool-load-balancing
