@@ -53,8 +53,14 @@ https://docs.microsoft.com/en-us/azure/storage/files/storage-files-identity-ad-d
 Overview - on-premises Active Directory Domain Services authentication over SMB for Azure file shares  
 https://docs.microsoft.com/en-us/azure/storage/files/storage-files-identity-auth-active-directory-enable
 
-Azure AD-Einbindung für Azure Virtual Desktop  
-https://docs.microsoft.com/de-de/azure/architecture/example-scenario/wvd/azure-virtual-desktop-azure-active-directory-join
+Azure AD join for Azure Virtual Desktop  
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/azure-virtual-desktop-azure-active-directory-join
+
+Azure Virtual Desktop RDP Shortpath for managed networks  
+https://docs.microsoft.com/en-us/azure/virtual-desktop/shortpath
+
+Multiregion Business Continuity and Disaster Recovery (BCDR) for Azure Virtual Desktop  
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/azure-virtual-desktop-multi-region-bcdr
 
 FSLogix
 -------
