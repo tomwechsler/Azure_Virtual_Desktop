@@ -28,7 +28,7 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Monitor and maintain an Azure Virtual Desktop infrastructure:** 
 
-Azure Virtual Desktop Architecture
+Azure Virtual Desktop Architecture:
 ----------------------------------
 
 Azure Virtual Desktop assessment  
@@ -94,7 +94,7 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/shortpath
 Multiregion Business Continuity and Disaster Recovery (BCDR) for Azure Virtual Desktop  
 https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/azure-virtual-desktop-multi-region-bcdr
 
-FSLogix
+FSLogix:
 -------
 Download FSLogix  
 https://docs.microsoft.com/en-us/fslogix/install-ht
@@ -111,7 +111,7 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/create-profile-container-
 Teams Cache Redirection  
 https://techcommunity.microsoft.com/t5/azure-virtual-desktop/wvd-fslogix-reduce-profile-container-size-exclude-teams-cache/m-p/1503683
 
-Custom Image
+Custom Image:
 ------------
 
 Installing Office  
@@ -130,7 +130,7 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/language-packs
 Store and share images in an Azure Compute Gallery  
 https://docs.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries
 
-Connect to Azure Virtual Desktop
+Connect to Azure Virtual Desktop:
 --------------------------------
 
 WebURL  
@@ -138,7 +138,7 @@ https://client.wvd.microsoft.com/arm/webclient/index.html
 
 https://rdweb.wvd.microsoft.com/api/arm/feeddiscovery  
 
-Monitoring
+Monitoring:
 ----------
 
 Use Azure Monitor for Azure Virtual Desktop to monitor your deployment  
@@ -150,7 +150,7 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/diagnostics-log-analytics
 Log Analytics Workspace (KQL)  
 https://github.com/tomwechsler/Azure_Virtual_Desktop/blob/main/WVD_Log_Analytics_KQL.ps1
 
-Security
+Security:
 --------
 
 Security best practices  
