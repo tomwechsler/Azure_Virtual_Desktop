@@ -50,6 +50,32 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/data-locations
 
 https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs
 
+https://azure.microsoft.com/en-us/pricing/details/virtual-desktop/
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/connect-windows-7-10
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/connect-web
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/connect-android
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/connect-macos
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/connect-ios
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/connect-microsoft-store
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/user-documentation/linux-overview
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop-fslogix
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/fslogix-containers-azure-files
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/network-connectivity
+
+https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-connect
+
 **Implement an Azure Virtual Desktop infrastructure:**
 
 
