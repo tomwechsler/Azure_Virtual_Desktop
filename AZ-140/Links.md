@@ -16,6 +16,39 @@ More helpful information directly from Microsoft, divided into the functional gr
 
 **Plan an Azure Virtual Desktop architecture:**
 
+https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-plan-and-design
+
+https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs
+
+https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/network-guidance
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-bandwidth
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/network-connectivity
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/rdp-quality-of-service-qos
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/overview#supported-virtual-machine-os-images
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/faq
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/multi-forest-azure-managed
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/environment-setup
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-azure-marketplace?tabs=azure-portal
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/data-locations
+
+https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs
 
 **Implement an Azure Virtual Desktop infrastructure:**
 
