@@ -78,6 +78,15 @@ https://docs.microsoft.com/en-us/azure/active-directory/hybrid/whatis-azure-ad-c
 
 **Implement an Azure Virtual Desktop infrastructure:**
 
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview
+
+https://docs.microsoft.com/en-us/azure/vpn-gateway/design
+
+https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction
+
+
 
 **Manage access and security:**
 
