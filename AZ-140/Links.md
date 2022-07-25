@@ -86,7 +86,69 @@ https://docs.microsoft.com/en-us/azure/vpn-gateway/design
 
 https://docs.microsoft.com/en-us/azure/expressroute/expressroute-introduction
 
+https://docs.microsoft.com/en-us/azure/security/fundamentals/network-overview
 
+https://docs.microsoft.com/en-us/azure/virtual-network/network-security-groups-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/network-connectivity
+
+https://docs.microsoft.com/en-us/azure/firewall/protect-azure-virtual-desktop
+
+https://techcommunity.microsoft.com/t5/azure-virtual-desktop/learn-here-how-to-manage-your-windows-virtual-desktop-host-pools/m-p/783620
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-azure-monitor
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/store-fslogix-profile
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/fslogix-containers-azure-files
+
+https://docs.microsoft.com/en-us/azure/storage/common/storage-account-create
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/managed-disks-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/ephemeral-os-disks
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-customize-master-image
+
+https://docs.microsoft.com/en-us/azure/storage/files/storage-how-to-create-file-share
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-azure-marketplace
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/powershell-module
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/customize-rdp-properties
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/configure-host-pool-load-balancing
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/configure-host-pool-personal-desktop-assignment-type
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/apply-windows-license
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/configure-automatic-updates
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/create-validation-host-pool
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/security-guide
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-customize-master-image
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/language-packs
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/create-host-pools-powershell
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/shared-image-galleries
+
+https://docs.microsoft.com/en-us/azure/virtual-machines/capture-image-portal
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-vm-configuration
 
 **Manage access and security:**
 
