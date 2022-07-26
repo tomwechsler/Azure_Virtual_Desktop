@@ -152,6 +152,25 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-vm-configura
 
 **Manage access and security:**
 
+https://docs.microsoft.com/en-us/azure/role-based-access-control/overview
+
+https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/rbac
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/delegated-access-virtual-desktop
+
+https://docs.microsoft.com/en-us/mem/intune/fundamentals/azure-virtual-desktop
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-mfa
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/security-guide
+
+https://docs.microsoft.com/en-us/azure/defender-for-cloud/get-started
+
+https://azure.microsoft.com/de-de/blog/protecting-windows-virtual-desktop-environments-with-azure-security-center/
+
+https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/deployment-vdi-microsoft-defender-antivirus
 
 **Manage user environments and apps:**
 
