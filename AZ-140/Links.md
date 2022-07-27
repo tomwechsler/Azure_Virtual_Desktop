@@ -174,6 +174,43 @@ https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/deploy
 
 **Manage user environments and apps:**
 
+https://docs.microsoft.com/en-us/fslogix/overview
+
+https://docs.microsoft.com/en-us/fslogix/install-ht
+
+https://docs.microsoft.com/en-us/fslogix/configure-profile-container-tutorial
+
+https://docs.microsoft.com/en-us/fslogix/configure-cloud-cache-tutorial
+
+https://techcommunity.microsoft.com/t5/windows-it-pro-blog/accelerate-your-rds-and-vdi-migration-to-windows-virtual-desktop/ba-p/1079005
+
+https://docs.microsoft.com/en-us/universal-print/fundamentals/universal-print-getting-started
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/configure-host-pool-personal-desktop-assignment-type
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/customize-rdp-properties
+
+https://docs.microsoft.com/en-us/fslogix/fslogix-trouble-shooting-ht
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overview
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/app-attach-azure-portal
+
+https://docs.microsoft.com/en-us/fslogix/implement-application-masking-tutorial
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/manage-app-groups
+
+https://docs.microsoft.com/en-us/onedrive/sync-vdi-support
+
+https://docs.microsoft.com/en-us/microsoftteams/teams-for-vdi
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/security-guide
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/manage-app-groups
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overview
 
 **Monitor and maintain an Azure Virtual Desktop infrastructure:** 
 
