@@ -226,10 +226,6 @@ https://docs.microsoft.com/en-us/azure/backup/backup-afs
 
 https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
 
-https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
-
-https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
-
 https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor
 
 https://docs.microsoft.com/en-us/windows-server/administration/performance-tuning/role/remote-desktop/session-hosts
