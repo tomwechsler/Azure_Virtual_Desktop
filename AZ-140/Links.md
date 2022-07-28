@@ -214,6 +214,32 @@ https://docs.microsoft.com/en-us/azure/virtual-desktop/troubleshoot-set-up-overv
 
 **Monitor and maintain an Azure Virtual Desktop infrastructure:** 
 
+https://docs.microsoft.com/en-us/azure/virtual-desktop/disaster-recovery
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/faq#how-does-windows-virtual-desktop-handle-backups
+
+https://docs.microsoft.com/en-us/azure/architecture/example-scenario/wvd/windows-virtual-desktop-fslogix
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/fslogix-containers-azure-files
+
+https://docs.microsoft.com/en-us/azure/backup/backup-afs
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/azure-monitor
+
+https://docs.microsoft.com/en-us/windows-server/administration/performance-tuning/role/remote-desktop/session-hosts
+
+https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-vdi-recommendations-2004
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/windows-10-multisession-faq
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script
+
 Azure Virtual Desktop Architecture:
 ----------------------------------
 
