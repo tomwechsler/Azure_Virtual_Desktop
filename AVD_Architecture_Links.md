@@ -137,3 +137,18 @@ https://azure.microsoft.com/en-us/resources/azure-virtual-desktop-handbook-secur
 
 Protecting Azure Virtual Desktop environments with Azure Security Center  
 https://azure.microsoft.com/de-de/blog/protecting-windows-virtual-desktop-environments-with-azure-security-center/
+
+MSIX app attach
+--------
+
+https://docs.microsoft.com/en-us/windows/msix/overview
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/what-is-app-attach
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/app-attach-file-share
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/app-attach-image-prep
+
+https://docs.microsoft.com/en-us/windows/msix/packaging-tool/create-app-package
+
+https://docs.microsoft.com/en-us/azure/virtual-desktop/remote-app-streaming/msix-app-attach
