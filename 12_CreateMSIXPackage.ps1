@@ -1,7 +1,9 @@
 #Notepad++
-#https://github.com/notepad-plus-plus/notepad-plus-plus/releases/download/v8.1.4/npp.8.1.4.Installer.exe
+#https://notepad-plus-plus.org/downloads/
+
 #MSIX Packaging Tool Download
 #https://docs.microsoft.com/en-us/windows/msix/packaging-tool/tool-overview
+
 #Time stamp URL
 #http://timestamp.verisign.com/scripts/timstamp.dll
 
