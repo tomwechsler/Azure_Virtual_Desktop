@@ -1,0 +1,182 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "artifactsLocation": {
+            "value": "https://wvdportalstorageblob.blob.core.windows.net/galleryartifacts/Configuration_03-30-2022.zip"
+        },
+        "nestedTemplatesLocation": {
+            "value": "https://wvdportalstorageblob.blob.core.windows.net/galleryartifacts/armtemplates/Hostpool_3-9-2022/nestedTemplates/"
+        },
+        "vmTemplate": {
+            "value": "{\"domain\":\"contosohq.xyz\",\"galleryImageOffer\":\"WindowsServer\",\"galleryImagePublisher\":\"MicrosoftWindowsServer\",\"galleryImageSKU\":\"2019-Datacenter\",\"imageType\":\"Gallery\",\"imageUri\":null,\"customImageId\":null,\"namePrefix\":\"avd-2\",\"osDiskType\":\"Premium_LRS\",\"vmSize\":{\"id\":\"Standard_D2s_v3\",\"cores\":2,\"ram\":8},\"galleryItemId\":\"Microsoft.WindowsServer2019Datacenter\",\"hibernate\":false,\"diskSizeGB\":0}"
+        },
+        "intune": {
+            "value": false
+        },
+        "hostpoolName": {
+            "value": "WS19"
+        },
+        "hostpoolDescription": {
+            "value": "Created through the Azure Virtual Desktop extension"
+        },
+        "location": {
+            "value": "westeurope"
+        },
+        "validationEnvironment": {
+            "value": false
+        },
+        "hostpoolType": {
+            "value": "Pooled"
+        },
+        "loadBalancerType": {
+            "value": "BreadthFirst"
+        },
+        "vmResourceGroup": {
+            "value": ""
+        },
+        "vmNamePrefix": {
+            "value": "WS19"
+        },
+        "vmLocation": {
+            "value": "westeurope"
+        },
+        "availabilityOption": {
+            "value": "None"
+        },
+        "availabilitySetName": {
+            "value": ""
+        },
+        "createAvailabilitySet": {
+            "value": false
+        },
+        "availabilitySetUpdateDomainCount": {
+            "value": 5
+        },
+        "availabilitySetFaultDomainCount": {
+            "value": 2
+        },
+        "availabilityZone": {
+            "value": 1
+        },
+        "vmImageType": {
+            "value": "Gallery"
+        },
+        "vmSize": {
+            "value": "Standard_D2s_v3"
+        },
+        "vmNumberOfInstances": {
+            "value": 1
+        },
+        "vmDiskType": {
+            "value": "Premium_LRS"
+        },
+        "vmDiskSizeGB": {
+            "value": 0
+        },
+        "vmHibernate": {
+            "value": false
+        },
+        "bootDiagnostics": {
+            "value": {
+                "enabled": true
+            }
+        },
+        "securityType": {
+            "value": "Standard"
+        },
+        "secureBoot": {
+            "value": false
+        },
+        "vTPM": {
+            "value": false
+        },
+        "virtualNetworkResourceGroupName": {
+            "value": "vnet-hub-westus"
+        },
+        "existingVnetName": {
+            "value": "vnet-hub-westus"
+        },
+        "existingSubnetName": {
+            "value": "poolSubnet"
+        },
+        "createNetworkSecurityGroup": {
+            "value": false
+        },
+        "aadJoin": {
+            "value": false
+        },
+        "administratorAccountUsername": {
+            "value": "avdadmin@tomsazure.ch"
+        },
+        "administratorAccountPassword": {
+            "value": null
+        },
+        "domain": {
+            "value": "tomsazure.ch"
+        },
+        "ouPath": {
+            "value": "OU=Contoso Computers,DC=tomsazure,DC=ch"
+        },
+        "vmAdministratorAccountUsername": {
+            "value": "avdAdmin"
+        },
+        "vmAdministratorAccountPassword": {
+            "value": null
+        },
+        "addToWorkspace": {
+            "value": true
+        },
+        "applicationGroupTags": {
+            "value": {}
+        },
+        "availabilitySetTags": {
+            "value": {}
+        },
+        "hostpoolTags": {
+            "value": {}
+        },
+        "imageTags": {
+            "value": {}
+        },
+        "networkInterfaceTags": {
+            "value": {}
+        },
+        "networkSecurityGroupTags": {
+            "value": {}
+        },
+        "virtualMachineTags": {
+            "value": {}
+        },
+        "apiVersion": {
+            "value": "2021-09-03-preview"
+        },
+        "vmGalleryImageOffer": {
+            "value": "WindowsServer"
+        },
+        "vmGalleryImagePublisher": {
+            "value": "MicrosoftWindowsServer"
+        },
+        "vmGalleryImageSKU": {
+            "value": "2019-Datacenter"
+        },
+        "vmGalleryImageHasPlan": {
+            "value": false
+        },
+        "maxSessionLimit": {
+            "value": 5
+        },
+        "workspaceResourceGroup": {
+            "value": "WS19"
+        },
+        "workspaceName": {
+            "value": "WS19-west"
+        },
+        "workspaceLocation": {
+            "value": "westus"
+        },
+        "isNewWorkspace": {
+            "value": true
+        }
+    }
+}

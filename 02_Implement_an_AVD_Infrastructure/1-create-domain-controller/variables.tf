@@ -28,7 +28,7 @@ variable "dc_virtual_machine_size" {
 variable "dc_admin_username" {
   description = "(Optional) Admin username for DC. Defaults to avdDCAdmin"
   type        = string
-  default     = "avdadmin"
+  default     = "avdDCAdmin"
 }
 
 variable "dc_ad_domain_name" {
