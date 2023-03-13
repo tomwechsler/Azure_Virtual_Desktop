@@ -1,4 +1,4 @@
-# Set the resource group and hostpool names
+#Set the resource group and hostpool names
 $resource_group_name="W10-D"
 $hostpool_name="W10-D"
 
