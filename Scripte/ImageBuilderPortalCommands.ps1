@@ -79,6 +79,6 @@ New-AzRoleAssignment @RoleAssignParams
 
 #Inline Command
 New-Item -Type Directory -Path 'c:\\' -Name temp,
-Invoke-WebRequest -uri 'https://aka.ms/downloadazcopy-v10-windows' -OutFile 'c:\\temp\\azcopy.zip',
-Expand-Archive 'c:\\temp\\azcopy.zip' 'c:\\temp',
-Copy-Item 'C:\\temp\\azcopy_windows_amd64_*\\azcopy.exe\\' -Destination 'c:\\temp'
+Invoke-WebRequest -uri 'https://releases.hashicorp.com/terraform/1.4.5/terraform_1.4.5_windows_amd64.zip' -OutFile 'c:\\temp\\terraform.zip',
+Expand-Archive 'c:\\temp\\terraform.zip' 'c:\\temp',
+Copy-Item 'C:\\temp\\terraform_*\\terraform.exe\\' -Destination 'c:\\temp'
