@@ -26,7 +26,7 @@ Get-AzResourceProvider -ProviderNamespace Microsoft.Compute, Microsoft.KeyVault,
 #Create Managed Identity and Role
 
 #Destination image resource group name
-$imageResourceGroup = '<ResourceGroupName'
+$imageResourceGroup = '<ResourceGroupName>'
 
 #Azure region
 $location = 'westeurope'
